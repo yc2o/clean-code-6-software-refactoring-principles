@@ -174,7 +174,6 @@ car.movePiston(); // Car handles internal coordination
   1. **Analisis**: Code smells dan violations yang ditemukan
   2. **Perbaikan**: Principle mana yang diterapkan dan bagaimana
   3. **Hasil akhir**: Kode yang sudah clean dengan penjelasan
-  4. **Refleksi**: Impact terhadap maintainability dan extensibility
 
 - Laporan dikumpulkan sesuai instruksi dosen (format `PDF/DOCX`).
 
