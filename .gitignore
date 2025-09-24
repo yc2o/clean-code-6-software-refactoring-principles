@@ -1,0 +1,5 @@
+# Ignore all documents and images
+*.docx
+*.doc
+*.png
+*.pdf
